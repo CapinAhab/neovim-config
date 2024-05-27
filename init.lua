@@ -167,3 +167,7 @@ cmp.setup({
 
 
 vim.g.user_emmet_leader_key = ','
+
+vim.opt.spelllang = 'en_gb'
+
+vim.opt.spell = true
